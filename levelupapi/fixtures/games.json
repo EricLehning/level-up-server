@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Monopoly",
+            "maker": "Hasbro",
+            "number_of_players": 8,
+            "skill_level": "Easy",
+            "game_type": 1,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Rifts",
+            "maker": "Palladium",
+            "number_of_players": 6,
+            "skill_level": "Moderate",
+            "game_type": 2,
+            "gamer": 1
+        }
+    }
+]

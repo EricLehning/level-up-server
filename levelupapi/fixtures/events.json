@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "description": "Just some finance bros geeking out.",
+            "date": "2023-10-10",
+            "time": "7:00",
+            "organizer": 1,
+            "game": 1,
+            "attendees": [1]
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "description": "Just some dorks going pandimensional.",
+            "date": "2023-10-11",
+            "time": "7:00",
+            "organizer": 1,
+            "game": 2,
+            "attendees": [1]
+        }
+    }
+]
